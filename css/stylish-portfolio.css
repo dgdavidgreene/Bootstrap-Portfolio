@@ -6,6 +6,22 @@ body {
   width: 100%;
 }
 
+.yellowgreenflat {
+	color:#8fa819;
+}
+
+.bottom-text {
+  display: table-cell;
+  vertical-align: bottom;
+  text-align: right;
+}
+.bottom-text h1 {
+  padding: 0;
+  margin: 0;
+  font-size: 3.5em;
+  font-weight: 500;
+}
+
 .vert-text {
   display: table-cell;
   vertical-align: middle;
